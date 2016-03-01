@@ -5,7 +5,11 @@ using System.Text;
 
 namespace SocketLib
 {
-    public class test1
+    public class testClass
     {
+        public void test1()
+        {
+
+        }
     }
 }
