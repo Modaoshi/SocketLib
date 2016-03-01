@@ -58,6 +58,7 @@
     <Compile Include="SocketAsyncEventArgsPool.cs" />
     <Compile Include="SocketClient.cs" />
     <Compile Include="SocketListener.cs" />
+    <Compile Include="test1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />
